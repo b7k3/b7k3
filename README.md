@@ -23,6 +23,6 @@
 <h2 align="center">GITHUB STATS</h2>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solotovsk&bg_color=0d1117&color=5566F9&line=3A4DF8&point=ffffff&area=true&hide_border=true)](https://github.com/solotovsk/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solotovsk&bg_color=0d1117&color=5566F9&line=3A4DF8&point=ffffff&area=true&hide_border=true)](https://github.com/koslov-dev/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5566F9&height=120&section=footer"/>
