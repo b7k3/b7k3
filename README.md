@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5566F9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5566F9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Solotov;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5566F9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Kozlov;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br/>
 <h2 align="center">CONTACT-ME</h2>
@@ -23,6 +23,6 @@
 <h2 align="center">GITHUB STATS</h2>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kozlov7-dev&bg_color=0d1117&color=5566F9&line=3A4DF8&point=ffffff&area=true&hide_border=true)](https://github.com/kozlov7-dev/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kozlover&bg_color=0d1117&color=5566F9&line=3A4DF8&point=ffffff&area=true&hide_border=true)](https://github.com/kozlover/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5566F9&height=120&section=footer"/>
