@@ -7,7 +7,7 @@
 <h2 align="center">SKILLS</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,python,javascript,html,css" /><br>
 </div>
 <h2 align="center"></h2>
   <br/>
